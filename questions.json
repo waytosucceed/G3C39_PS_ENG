@@ -1,0 +1,251 @@
+{
+  "heading": "Interjections",
+  "topics": [
+    {
+      "heading": "Interjections",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence uses an interjection at the end?",
+          "options": [
+            { "text": "Wow! That's a big dog." },
+            { "text": "I can't believe we won the game, yay!" },
+            { "text": "Ouch, that really hurt." },
+            { "text": "Oh no, I forgot my lunch." }
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses the interjection 'yay!' at the end. While interjections often appear at the beginning of sentences, they can also be used at the end to express emotion about what was just said."
+        },
+        {
+          "questionNo": 2,
+          "question": "'________, I guess we should start cleaning up now,' said Lisa reluctantly.",
+          "options": [
+            { "text": "Well" },
+            { "text": "Oh" },
+            { "text": "Yippee" },
+            { "text": "Hurray" }
+          ],
+          "answer": 0,
+          "explanation": "'Well' can be used at the beginning of a sentence to express a pause or slight reluctance. It fits Lisa's hesitation about starting to clean."
+        },
+        {
+          "questionNo": 3,
+          "question": "What does the interjection 'Bravo!' express?",
+          "options": [
+            { "text": "Anger" },
+            { "text": "Approval or praise" },
+            { "text": "Confusion" },
+            { "text": "Sadness" }
+          ],
+          "answer": 1,
+          "explanation": "'Bravo!' is an interjection used to express approval, praise, or appreciation, often after a good performance or achievement."
+        },
+        {
+          "questionNo": 4,
+          "question": "'________, what do you think you're doing?' asked the teacher.",
+          "options": [
+            { "text": "Oh" },
+            { "text": "Wow" },
+            { "text": "Hey" },
+            { "text": "Uh" }
+          ],
+          "answer": 2,
+          "explanation": "'Hey' can be used to get someone's attention, often with a tone of warning or disapproval. It works well for the teacher's stern question."
+        },
+        {
+          "questionNo": 5,
+          "question": "'________, that dress looks lovely on you,' complimented Grandma.",
+          "options": [
+            { "text": "Oh dear" },
+            { "text": "Hey" },
+            { "text": "Uh" },
+            { "text": "Alas" }
+          ],
+          "answer": 0,
+          "explanation": "While 'Oh dear' often expresses worry, it can also be used as a gentle exclamation of pleasure. Here, Grandma is using it to express admiration."
+        },
+        {
+          "questionNo": 6,
+          "question": "In 'Shh! The baby is sleeping,' what does 'Shh' mean?",
+          "options": [
+            { "text": "To speak loudly" },
+            { "text": "To be quiet" },
+            { "text": "To wake up" },
+            { "text": "To celebrate" }
+          ],
+          "answer": 1,
+          "explanation": "'Shh' is an interjection used to ask for quiet or silence. In this sentence, it's used to remind someone to be quiet because the baby is sleeping."
+        },
+        {
+          "questionNo": 7,
+          "question": "In 'Hooray! We're having pizza for dinner!', what feeling does 'Hooray!' express?",
+          "options": [
+            { "text": "Sadness" },
+            { "text": "Anger" },
+            { "text": "Excitement or joy" },
+            { "text": "Fear" }
+          ],
+          "answer": 2,
+          "explanation": "'Hooray!' is an interjection that expresses excitement, joy, or celebration. In this sentence, it shows happiness about having pizza for dinner."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Authority" },
+            { "text": "Aothority" },
+            { "text": "Athority" },
+            { "text": "Authorety" }
+          ],
+          "answer": 0,
+          "explanation": "'A-U-T-H-O-R-I-T-Y' is the correct spelling, which means the power or right to give orders or make decisions. The other options are misspelled."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which sentence uses 'Oh' to show surprise?",
+          "options": [
+            { "text": "Oh, I see what you mean." },
+            { "text": "Oh! I didn't expect to see you here." },
+            { "text": "Oh well, maybe next time." },
+            { "text": "None of the above." }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, 'Oh!' is used as an interjection to express surprise at unexpectedly seeing someone. The exclamation mark emphasizes the sudden emotion."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of these is NOT an interjection?",
+          "options": [
+            { "text": "Wow" },
+            { "text": "Oops" },
+            { "text": "Happily" },
+            { "text": "Yippee" }
+          ],
+          "answer": 2,
+          "explanation": "'Happily' is not an interjection; it's an adverb that describes how an action is done. The other options (Wow, Oops, Yippee) are all interjections expressing different emotions."
+        },
+        {
+          "questionNo": 11,
+          "question": "'________! I can't believe I won first prize,' gasped John in disbelief.",
+          "options": [
+            { "text": "Wow" },
+            { "text": "Alas" },
+            { "text": "Uh" },
+            { "text": "None of the above" }
+          ],
+          "answer": 0,
+          "explanation": "'Wow' is perfect here to express John's amazement and disbelief at winning first prize."
+        },
+        {
+          "questionNo": 12,
+          "question": "'________! The fireworks are so colourful,' exclaimed the children.",
+          "options": [
+            { "text": "Ouch" },
+            { "text": "Ah" },
+            { "text": "Phew" },
+            { "text": "Well" }
+          ],
+          "answer": 1,
+          "explanation": "'Ah' can be used to express pleasure or admiration. It works well to show the children's delight at the colourful fireworks."
+        },
+        {
+          "questionNo": 13,
+          "question": "'________! I stubbed my toe on the chair,' cried Sam.",
+          "options": [
+            { "text": "Oh dear" },
+            { "text": "Hey" },
+            { "text": "Wow" },
+            { "text": "Ouch" }
+          ],
+          "answer": 3,
+          "explanation": "'Ouch' is the ideal interjection to express sudden pain, like when Sam stubbed his toe."
+        },
+        {
+          "questionNo": 14,
+          "question": "'________! We're going to Disneyland!' shouted the kids excitedly.",
+          "options": [
+            { "text": "Yippee" },
+            { "text": "Alas" },
+            { "text": "Uh" },
+            { "text": "None of the above" }
+          ],
+          "answer": 0,
+          "explanation": "'Yippee' is an enthusiastic interjection expressing joy or excitement. It's perfect for showing the kids' excitement about going to Disneyland."
+        },
+        {
+          "questionNo": 15,
+          "question": "In the sentence '______, that was a close game!' which interjection best fits?",
+          "options": [
+            { "text": "Ouch" },
+            { "text": "Uh" },
+            { "text": "Phew" },
+            { "text": "Alas" }
+          ],
+          "answer": 2,
+          "explanation": "'Phew' is used to express relief, often after a tense or difficult situation. After a close game, you might feel relieved it's over, so 'Phew' fits perfectly here."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which sentence uses 'Well' as an interjection correctly?",
+          "options": [
+            { "text": "The well was very deep." },
+            { "text": "Well, I'm not sure about that." },
+            { "text": "She did the job well." },
+            { "text": "Get well soon!" }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, 'Well' is used as an interjection to start the sentence. It shows the speaker is thinking or hesitating before speaking. In the other sentences, 'well' is used as a noun, adverb, or adjective, not an interjection."
+        },
+        {
+          "questionNo": 17,
+          "question": "What feeling does 'Alas' usually express?",
+          "options": [
+            { "text": "Happiness" },
+            { "text": "Excitement" },
+            { "text": "Sadness or disappointment" },
+            { "text": "Anger" }
+          ],
+          "answer": 2,
+          "explanation": "'Alas' is an interjection that expresses sadness or disappointment. It's like saying 'Oh no' but in a more poetic way. For example, 'Alas, we lost the game.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Which interjection is best for getting someone's attention?",
+          "options": [
+            { "text": "Wow" },
+            { "text": "Ouch" },
+            { "text": "Hey" },
+            { "text": "Phew" }
+          ],
+          "answer": 2,
+          "explanation": "'Hey' is commonly used to get someone's attention. It's like a friendly way of saying 'Listen' or 'Look at this.' For example, 'Hey, can you help me with this?'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Which interjection would you use to show disgust?",
+          "options": [
+            { "text": "Wow" },
+            { "text": "Yuck" },
+            { "text": "Hooray" },
+            { "text": "Oops" }
+          ],
+          "answer": 1,
+          "explanation": "'Yuck' is an interjection commonly used to express disgust or strong dislike, especially for something unpleasant or unappealing."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence uses 'Wow' correctly?",
+          "options": [
+            { "text": "The wow dog barked loudly." },
+            { "text": "She wowed to the store." },
+            { "text": "Wow! That's an amazing magic trick!" },
+            { "text": "The wow cake was delicious." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'Wow' correctly as an interjection. It expresses amazement or a strong impression of the magic trick. In the other sentences, 'wow' is incorrectly used as different parts of speech."
+        }
+      ]
+    }
+  ]
+}
+         
